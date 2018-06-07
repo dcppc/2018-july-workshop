@@ -8,7 +8,7 @@ The July DCPPC workshop will be held at The Renaissance Computing Institute (REN
 
 ### Quick Links
 
-- [Registration](https://ti.to/dcppc/july-data-commons-workshop) Please note that _registration is required to attend_
+- [Registration](https://ti.to/dcppc/2018-july-workshop) Please note that _registration is required to attend_
 - [Attendees](./attendees.md) - _In progress_
 - [Agenda](./agenda.md) - A detailed agenda
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md) - All members of the Commons are expected to follow the code of conduct. 
