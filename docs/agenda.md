@@ -32,7 +32,7 @@ tagline: Agenda
 
 13:00 -  Breakout group planning
 
-_For up-to-date information on breakout sessions, please visit the [June Workshop issues page](https://github.com/dcppc/2018-july-workshop/issues)_
+_For up-to-date information on breakout sessions, please visit the [July Workshop issues page](https://github.com/dcppc/2018-july-workshop/issues)_
 
 13:30 -  Breakout session 1
 
@@ -74,7 +74,7 @@ _For up-to-date information on breakout sessions, please visit the [June Worksho
 
 13:00 -  Breakout group planning
 
-_For up-to-date information on breakout sessions, please visit the [June Workshop issues page](https://github.com/dcppc/2018-july-workshop/issues)_
+_For up-to-date information on breakout sessions, please visit the [July Workshop issues page](https://github.com/dcppc/2018-july-workshop/issues)_
 
 13:30 -  Breakout session 3
 
