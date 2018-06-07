@@ -1,8 +1,4 @@
----
-layout: page
-title: June 2018 DCPPC Workshop Reimbursement
-tagline: June 29-30, Reed College, Portland, OR
----
+## Reimbursements
 
 Team Copper is happy to reimburse transportation expenses, hotels, Airbnbs, 
 and everything allowed by the UC Davis travel policy 
