@@ -19,7 +19,7 @@ The July DCPPC workshop will be held at The Renaissance Computing Institute (REN
 
 ### About the space
 
-RENCI will have between 1 large conference room available July 25-26. We also have 4 smaller conference rooms available the afternoon of July 25 and all day July 26. We will be able to connect all of these rooms to Zoom or other online meeting platforms and all rooms have white boards. We will also have an office available upon request for private meetings.
+We have reserved 1 large conference for use all day July 25-26. We also have 4 smaller conference rooms available the afternoon of July 25 and all day July 26. All rooms have white boards and can connect to Zoom or other online meeting platforms. Private office space is available upon request.
 
 | **Room** | **Location** | **Capacity** |
 | --- | --- | --- |
@@ -38,10 +38,6 @@ RENCI will have between 1 large conference room available July 25-26. We also ha
 - [Holiday Inn Express](https://www.ihg.com/holidayinnexpress/hotels/us/en/chapel-hill/rdufr/hoteldetail) and [Hampton Inn](http://hamptoninn3.hilton.com/en/hotels/north-carolina/hampton-inn-and-suites-chapel-hill-durham-area-RDUCHHX/index.html), 6119-21 Farrington Road, Chapel Hill, 27517: Both are a short drive to RENCI.
 - [The Siena](http://sienahotel.com/), 1505 East Franklin Street, Chapel Hill, NC 27514: The Siena is an elegant hotel 3 miles from RENCI.
 - For those interested in staying in the popular downtown Durham area 11 miles from RENCI, check out [The Durham](http://thedurham.com/), [21C Museum Hotel](https://www.21cmuseumhotels.com/durham/), [aLoft Durham Downtown](http://www.aloftdurhamdowntown.com/), or the [Unscripted Hotel](http://www.unscriptedhotels.com/durham/).
-
-
-
-
 
 ## Code of Conduct
 
