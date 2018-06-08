@@ -12,7 +12,7 @@ and everything allowed by the UC Davis travel policy
 must be accompanied by an itemized receipt.**
 
 ### Forms
-- Please complete the [Travel Reimbursement Worksheet](https://github.com/dcppc/2018-july-workshop/raw/master/docs/TravelReimbursementWorksheet.doc) for a refund _(Note, you have to download the word file to view it.)_  
+Please download and complete the [Travel Reimbursement Worksheet](https://github.com/dcppc/2018-july-workshop/raw/master/docs/TravelReimbursementWorksheet.doc) for a refund. Click the link and the download will start automatically. 
 
 ### Meals
 - **Save all your receipts.** 
