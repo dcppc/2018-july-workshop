@@ -9,10 +9,10 @@ and everything allowed by the UC Davis travel policy
 (since we will be using UC Davis to reimburse expenses for this meeting.). 
 
 **All requests for reimbursement (other than mileage & parking meters)
-must be accompanied by an Itemized Receipt.**
+must be accompanied by an itemized receipt.**
 
 ### Forms
-- Please complete the [Travel Reimbursement Worksheet](https://github.com/dcppc/2018-may-workshop/raw/master/docs/TravelReimbursementWorksheet.doc) for a refund _(Note, you have to download the word file to view it.)_  
+- Please complete the [Travel Reimbursement Worksheet](https://github.com/dcppc/2018-july-workshop/raw/master/docs/TravelReimbursementWorksheet.doc) for a refund _(Note, you have to download the word file to view it.)_  
 
 ### Meals
 - **Save all your receipts.** 
