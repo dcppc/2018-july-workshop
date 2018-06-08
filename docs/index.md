@@ -13,7 +13,7 @@ The July DCPPC workshop will be held at The Renaissance Computing Institute (REN
 - [Agenda](./agenda.md) - A detailed agenda
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md) - All members of the Commons are expected to follow the code of conduct. 
 - [Directions and parking](./directions.md)
-- [Reimbursements](./reimbursements) - details and a reimbursement form
+- [Reimbursements](./reimbursements.md) - details and a reimbursement form
 - [Restaurants](./restaurants.md)
 - Slack - _In progress_
 
