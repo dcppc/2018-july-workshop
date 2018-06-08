@@ -41,10 +41,10 @@ We have reserved 1 large conference for use all day July 25-26. We also have 4 s
 - [The Siena](http://sienahotel.com/), 1505 East Franklin Street, Chapel Hill, NC 27514: The Siena is an elegant hotel 3 miles from RENCI.
 - For those interested in staying in the popular downtown Durham area 11 miles from RENCI, check out [The Durham](http://thedurham.com/), [21C Museum Hotel](https://www.21cmuseumhotels.com/durham/), [aLoft Durham Downtown](http://www.aloftdurhamdowntown.com/), or the [Unscripted Hotel](http://www.unscriptedhotels.com/durham/).
 
-## Childcare
+### Childcare
 We know that primary caretakers of dependent children face inequitable hurdles when it comes to attending conferences. Please contact [Team Copper](dcppc.inbox@gmail.com ) if you have specific questions or concerns related to childcare. 
 
-## Code of Conduct
+### Code of Conduct
 
 All members of the Commons are expected to follow the [code of conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md). 
 We will enforce this code as needed. We expect cooperation from all members to help to ensure a safe environment for everybody.
