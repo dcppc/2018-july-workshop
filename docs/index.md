@@ -15,7 +15,7 @@ _The July DCPPC workshop will be held at The Renaissance Computing Institute (RE
 - [Directions and parking](./directions.md)
 - [Reimbursements](./reimbursements.md) - details and a reimbursement form
 - [Restaurants](./restaurants.md)
-- - [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-montly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
+- [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-montly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
 
 ### About the venue
 
