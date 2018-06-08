@@ -4,7 +4,7 @@ title: July 2018 DCPPC Workshop
 tagline: July 25-26, The Renaissance Computing Institute (RENCI), Chapel Hill, NC 
 ---
 
-The July DCPPC workshop will be held at The Renaissance Computing Institute (RENCI), an institute of the University of North Carolina at Chapel Hill, which is located at [100 Europa Drive, Suite 540, Chapel Hill, NC 27517](https://www.google.com/maps/place/100+Europa+Dr,+Chapel+Hill,+NC+27517/@35.9392635,-79.020576,17z/data=!3m1!4b1!4m5!3m4!1s0x89ace7f888b92489:0x726a47e95db81d35!8m2!3d35.9392635!4d-79.0183873). RENCI is located about 4 miles from the University of North Carolina at Chapel Hill campus and about 18 miles from RDU airport.
+_The July DCPPC workshop will be held at The Renaissance Computing Institute (RENCI), an institute of the University of North Carolina at Chapel Hill._
 
 ### Quick Links
 
@@ -17,7 +17,9 @@ The July DCPPC workshop will be held at The Renaissance Computing Institute (REN
 - [Restaurants](./restaurants.md)
 - Slack - _In progress_
 
-### About the space
+### About the venue
+
+RENCI is located at [100 Europa Drive, Suite 540, Chapel Hill, NC 27517](https://www.google.com/maps/place/100+Europa+Dr,+Chapel+Hill,+NC+27517/@35.9392635,-79.020576,17z/data=!3m1!4b1!4m5!3m4!1s0x89ace7f888b92489:0x726a47e95db81d35!8m2!3d35.9392635!4d-79.0183873). It is located about 4 miles from the University of North Carolina at Chapel Hill campus and about 18 miles from RDU airport.
 
 We have reserved 1 large conference for use all day July 25-26. We also have 4 smaller conference rooms available the afternoon of July 25 and all day July 26. All rooms have white boards and can connect to Zoom or other online meeting platforms. Private office space is available upon request.
 
