@@ -34,7 +34,10 @@ We have reserved 1 large conference for use all day July 25-26. We also have 4 s
 
 ### Area Hotels
 
-- [Sheraton Chapel Hill](http://www.sheratonchapelhill.com/), 1 Europa Drive, Chapel Hill, NC 27517: The Sheraton is located right across the street from RENCI. We will have a room block of 30 rooms available. If you have any problems with reservations, please contact Sarah Davis (sdavis@renci.org).
+- [**Sheraton Chapel Hill**](https://www.starwoodmeeting.com/events/start.action?id=1806187944&key=145CD634), 1 Europa Drive, Chapel Hill, NC 27517: The Sheraton is located right across the street from RENCI. 
+  - We will have a room block of 30 rooms available with a group rate available until _July 6, 2018_!
+  - Book your reservation in the group block [here](https://www.starwoodmeeting.com/events/start.action?id=1806187944&key=145CD634) 
+  - If you have any problems with reservations, please contact Sarah Davis (sdavis@renci.org).
 - [Residence Inn](http://www.marriott.com/hotels/travel/rduhl-residence-inn-chapel-hill/), 101 Erwin Rd, Chapel Hill 27514: The Residence Inn is a short walk across a busy roadway. There is a first-come-first-serve shuttle available from 7am to 7pm.
 - [The Quality Inn](https://www.choicehotels.com/north-carolina/chapel-hill/quality-inn-hotels), 1740 Fordham Blvd, Chapel Hill, NC, 27514: The Quality Inn is a budget option a short walk away.
 - [Holiday Inn Express](https://www.ihg.com/holidayinnexpress/hotels/us/en/chapel-hill/rdufr/hoteldetail) and [Hampton Inn](http://hamptoninn3.hilton.com/en/hotels/north-carolina/hampton-inn-and-suites-chapel-hill-durham-area-RDUCHHX/index.html), 6119-21 Farrington Road, Chapel Hill, 27517: Both are a short drive to RENCI.
