@@ -9,22 +9,10 @@ tagline: Agenda
 
 09:00 - Welcome remarks
  
-09:15 - Lightning talks: The awesome things you _have accomplished in the past_.
+09:15 - Lightning talks: The awesome things you have accomplished in the past.
 
-- Argon:
-- Calcium: 
-- Carbon: 
-- Copper: 
-- Data Stewards (AGR):
-- Data Stewards (GTEx): 
-- Data Stewards (TOPMed):
-- Helium: 
-- Hydrogen (NIH): 
-- Nitrogen: 
-- Oxygen: 
-- Phosphorus: 
-- Sodium: 
-- Xenon: 
+_To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-july-workshop/issues/). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
+ 
   
 10:30 - Coffee break (~20 minutes)
  
@@ -47,26 +35,13 @@ _For up-to-date information on breakout sessions, please visit the [July Worksho
 17:00 - End
 
 
- ## Workshop Day 2:  July 26, 2018
+## Workshop Day 2:  July 26, 2018
 
- 09: 00: Welcome remarks
+09: 00: Welcome remarks
  
- 09: 15: Lightning talks: The awesome things you _hope to accomplish in the future_.
+09: 15: Lightning talks: The awesome things you  hope to accomplish in the future.
 
-- Xenon:
-- Sodium: 
-- Phosphorus: 
-- Oxygen: 
-- Nitrogen: 
-- Hydrogen (NIH): 
-- Helium: 
-- Data Stewards (TOPMed):
-- Data Stewards (GTEx): 
-- Data Stewards (AGR):
-- Copper:
-- Carbon:
-- Calcium: 
-- Argon:
+_To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-july-workshop/issues/). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
 
 10:30 - Coffee break (~20 minutes)
  
