@@ -22,17 +22,13 @@ _To view the speaker order and to indicate who will represent your team, please 
 
 _For up-to-date information on breakout sessions, please visit the [July Workshop issues page](https://github.com/dcppc/2018-july-workshop/issues)_
 
-13:30 -  Breakout session 1
+13:30 - Breakout session
 
 14:30 - Coffee break (~20 minutes)
 
-14:50 -  Breakout session 2
-
-16:40 - Breakout session 1 and 2 recap 
+16:00 - Breakout session recap 
  
-16:50 - Closing remarks
-
-17:00 - End
+16:30 - End
 
 
 ## Workshop Day 2:  July 26, 2018
@@ -51,13 +47,11 @@ _To view the speaker order and to indicate who will represent your team, please 
 
 _For up-to-date information on breakout sessions, please visit the [July Workshop issues page](https://github.com/dcppc/2018-july-workshop/issues)_
 
-13:30 -  Breakout session 3
+13:30 -  Breakout session
 
 14:30 - Coffee break (~20 minutes)
 
-14:50 -  Breakout session 4
-
-16:00 - Breakout session 1 and 2 recap 
+16:00 - Breakout session recap 
 
 16:10 - Post-workshop survey
  
