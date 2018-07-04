@@ -8,29 +8,39 @@ _July attendees as of June 26, 2018_
 
 
     ##             Ticket Full Name          Team
-    ## 1         Amanda Charbonneau        Copper
-    ## 2               Rayna Harris        Copper
-    ## 3                Ben Heavner Data Stewards
-    ## 4                   Josh Bis Data Stewards
-    ## 5                Deepak Unni        Helium
-    ## 6                Karen Davis        Helium
-    ## 7               Martha Wewer        Helium
-    ## 8                Ray Idaszak        Helium
-    ## 9                Sarah Davis        Helium
-    ## 10                Stan Ahalt        Helium
-    ## 11 Ishwar Chandramouliswaran      Hydrogen
-    ## 12                 Jen Yttri      Hydrogen
-    ## 13         Kristen Cleveland      Hydrogen
-    ## 14           susan gregurick      Hydrogen
-    ## 15        Alexander Lachmann      Nitrogen
-    ## 16               Avi Ma'ayan      Nitrogen
-    ## 17             Daniel Clarke      Nitrogen
-    ## 18            Sherry Jenkins      Nitrogen
-    ## 19          Stephan Schuerer      Nitrogen
-    ## 20         Jonathan Crabtree    Phosphorus
-    ## 21              Merce Crosas        Sodium
-    ## 22             Alison E Leaf         Xenon
-    ## 23           Ross Rounsevell         Xenon
+    ## 1             Brian O'Connor       Calcium
+    ## 2              David Siedzik       Calcium
+    ## 3               Lon Blauvelt       Calcium
+    ## 4         Amanda Charbonneau        Copper
+    ## 5               Rayna Harris        Copper
+    ## 6                Ben Heavner Data Stewards
+    ## 7                   Josh Bis Data Stewards
+    ## 8           Asia Mieczkowska        Helium
+    ## 9                Deepak Unni        Helium
+    ## 10               Karen Davis        Helium
+    ## 11              Martha Wewer        Helium
+    ## 12               Ray Idaszak        Helium
+    ## 13               Sarah Davis        Helium
+    ## 14                Stan Ahalt        Helium
+    ## 15          Alastair Thomson      Hydrogen
+    ## 16            Ingrid Borecki      Hydrogen
+    ## 17 Ishwar Chandramouliswaran      Hydrogen
+    ## 18                 Jen Yttri      Hydrogen
+    ## 19         Kristen Cleveland      Hydrogen
+    ## 20           susan gregurick      Hydrogen
+    ## 21            Vivien Bonazzi      Hydrogen
+    ## 22        Alexander Lachmann      Nitrogen
+    ## 23               Avi Ma'ayan      Nitrogen
+    ## 24             Daniel Clarke      Nitrogen
+    ## 25             Daniel Cooper      Nitrogen
+    ## 26                 Lily Wang      Nitrogen
+    ## 27            Sherry Jenkins      Nitrogen
+    ## 28          Stephan Schuerer      Nitrogen
+    ## 29         Jonathan Crabtree    Phosphorus
+    ## 30              Merce Crosas        Sodium
+    ## 31             Alison E Leaf         Xenon
+    ## 32           Ross Rounsevell         Xenon
+    ## 33          Vladimir Obucina         Xenon
  
     
 _Overview of particpants per team_
