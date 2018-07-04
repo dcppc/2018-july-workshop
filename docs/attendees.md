@@ -18,7 +18,6 @@ _July attendees as of July 4, 2018_
     ## 9                   Josh Bis Data Stewards
     ## 10          Asia Mieczkowska        Helium
     ## 11               Deepak Unni        Helium
-    ## 12               Karen Davis        Helium
     ## 13               Karen Davis        Helium
     ## 14              Martha Wewer        Helium
     ## 15               Ray Idaszak        Helium
@@ -52,7 +51,7 @@ _Overview of particpants per team_
     ## 2         Carbon 1
     ## 3         Copper 3
     ## 4  Data Stewards 2
-    ## 5         Helium 8
+    ## 5         Helium 7
     ## 6       Hydrogen 7
     ## 7       Nitrogen 7
     ## 8     Phosphorus 1
