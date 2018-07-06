@@ -8,7 +8,9 @@ _The following information was last updated on July 6, 2018._
 
 ### List of attendees 
 
-<table>
+_Sorted by Team and first name_
+
+<table class="table table-striped">
 <thead>
 <tr class="header">
 <th style="text-align: left;">Ticket Full Name</th>
@@ -182,6 +184,8 @@ _The following information was last updated on July 6, 2018._
 </tr>
 </tbody>
 </table> 
+    
+   
     
 ### Overview of particpants per team
 
