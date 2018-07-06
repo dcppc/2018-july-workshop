@@ -20,9 +20,9 @@ _The July DCPPC workshop will be held at The Renaissance Computing Institute (RE
 ### Breakout groups
 
 In order to organize breakout 
-groups or hackathons ahead of time,
-please suggest topics by opening [an issues 
-in the workshop repo](https://github.com/dcppc/2018-july-workshop). 
+groups and hackathons ahead of time,
+please suggest topics by opening [issues 
+in the workshop repo](https://github.com/dcppc/2018-july-workshop/issues). 
 
 ### About the venue
 
