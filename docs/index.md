@@ -8,9 +8,9 @@ _The July DCPPC workshop will be held at The Renaissance Computing Institute (RE
 
 ### Quick Links
 
-- [Registration](https://ti.to/dcppc/2018-july-workshop) Please note that _registration is required to attend_
-- [Attendees](./attendees.md) - _In progress_
-- [Agenda](./agenda.md) - A detailed agenda
+- **[Registration](https://ti.to/dcppc/2018-july-workshop)** Please note that _registration is required to attend_
+- **[Agenda](./agenda.md)** - The workshop agenda, subject to changes based on community suggestions.
+- [Attendees](./attendees.md) - _A list of all the people who have registered to date._
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md) - All members of the Commons are expected to follow the code of conduct. 
 - [Directions and parking](./directions.md)
 - [Reimbursements](./reimbursements.md) - details and a reimbursement form
