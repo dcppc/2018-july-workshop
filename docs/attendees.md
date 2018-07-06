@@ -4,56 +4,195 @@ title: July 2018 DCPPC Workshop
 tagline: Attendees
 ---
 
-_July attendees as of July 4, 2018_
+_July attendees as of July 6, 2018_
 
-    ##             Ticket Full Name          Team
-    ## 1             Brian O'Connor       Calcium
-    ## 2              David Siedzik       Calcium
-    ## 3               Lon Blauvelt       Calcium
-    ## 4              Jessica Lyons        Carbon
-    ## 5         Amanda Charbonneau        Copper
-    ## 6               Rayna Harris        Copper
-    ## 7         Sarah Wait Zaranek        Copper
-    ## 8                Ben Heavner Data Stewards
-    ## 9                   Josh Bis Data Stewards
-    ## 10          Asia Mieczkowska        Helium
-    ## 11               Deepak Unni        Helium
-    ## 13               Karen Davis        Helium
-    ## 14              Martha Wewer        Helium
-    ## 15               Ray Idaszak        Helium
-    ## 16               Sarah Davis        Helium
-    ## 17                Stan Ahalt        Helium
-    ## 18          Alastair Thomson      Hydrogen
-    ## 19            Ingrid Borecki      Hydrogen
-    ## 20 Ishwar Chandramouliswaran      Hydrogen
-    ## 21                 Jen Yttri      Hydrogen
-    ## 22         Kristen Cleveland      Hydrogen
-    ## 23           susan gregurick      Hydrogen
-    ## 24            Vivien Bonazzi      Hydrogen
-    ## 25        Alexander Lachmann      Nitrogen
-    ## 26               Avi Ma'ayan      Nitrogen
-    ## 27             Daniel Clarke      Nitrogen
-    ## 28             Daniel Cooper      Nitrogen
-    ## 29                 Lily Wang      Nitrogen
-    ## 30            Sherry Jenkins      Nitrogen
-    ## 31          Stephan Schuerer      Nitrogen
-    ## 32         Jonathan Crabtree    Phosphorus
-    ## 33              Merce Crosas        Sodium
-    ## 34             Alison E Leaf         Xenon
-    ## 35           Ross Rounsevell         Xenon
-    ## 36          Vladimir Obucina         Xenon
- 
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Ticket Full Name</th>
+<th style="text-align: left;">Team</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Rick Wagner</td>
+<td style="text-align: left;">Argon</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Brian O’Connor</td>
+<td style="text-align: left;">Calcium</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">David Siedzik</td>
+<td style="text-align: left;">Calcium</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Lon Blauvelt</td>
+<td style="text-align: left;">Calcium</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Jessica Lyons</td>
+<td style="text-align: left;">Carbon</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Amanda Charbonneau</td>
+<td style="text-align: left;">Copper</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Rayna Harris</td>
+<td style="text-align: left;">Copper</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sarah Wait Zaranek</td>
+<td style="text-align: left;">Copper</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ben Heavner</td>
+<td style="text-align: left;">Data Stewards</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Josh Bis</td>
+<td style="text-align: left;">Data Stewards</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Asia Mieczkowska</td>
+<td style="text-align: left;">Helium</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Claris Castillo</td>
+<td style="text-align: left;">Helium</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Deepak Unni</td>
+<td style="text-align: left;">Helium</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Karen Davis</td>
+<td style="text-align: left;">Helium</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Karen Davis</td>
+<td style="text-align: left;">Helium</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Martha Wewer</td>
+<td style="text-align: left;">Helium</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ray Idaszak</td>
+<td style="text-align: left;">Helium</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sarah Davis</td>
+<td style="text-align: left;">Helium</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Stan Ahalt</td>
+<td style="text-align: left;">Helium</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Alastair Thomson</td>
+<td style="text-align: left;">Hydrogen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Ingrid Borecki</td>
+<td style="text-align: left;">Hydrogen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Ishwar Chandramouliswaran</td>
+<td style="text-align: left;">Hydrogen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Jen Yttri</td>
+<td style="text-align: left;">Hydrogen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Kristen Cleveland</td>
+<td style="text-align: left;">Hydrogen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">susan gregurick</td>
+<td style="text-align: left;">Hydrogen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Vivien Bonazzi</td>
+<td style="text-align: left;">Hydrogen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Alexander Lachmann</td>
+<td style="text-align: left;">Nitrogen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Avi Ma’ayan</td>
+<td style="text-align: left;">Nitrogen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Daniel Clarke</td>
+<td style="text-align: left;">Nitrogen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Daniel Cooper</td>
+<td style="text-align: left;">Nitrogen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Lily Wang</td>
+<td style="text-align: left;">Nitrogen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Megan Wojciechowicz</td>
+<td style="text-align: left;">Nitrogen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sherry Jenkins</td>
+<td style="text-align: left;">Nitrogen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Stephan Schuerer</td>
+<td style="text-align: left;">Nitrogen</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Anupama Gururaj</td>
+<td style="text-align: left;">Oxygen</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Jonathan Crabtree</td>
+<td style="text-align: left;">Phosphorus</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Merce Crosas</td>
+<td style="text-align: left;">Sodium</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sarala Wimalaratne</td>
+<td style="text-align: left;">Sodium</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Alison E Leaf</td>
+<td style="text-align: left;">Xenon</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Ross Rounsevell</td>
+<td style="text-align: left;">Xenon</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Vladimir Obucina</td>
+<td style="text-align: left;">Xenon</td>
+</tr>
+</tbody>
+</table> 
     
 _Overview of particpants per team_
     
     ##             Team n
-    ## 1        Calcium 3
-    ## 2         Carbon 1
-    ## 3         Copper 3
-    ## 4  Data Stewards 2
-    ## 5         Helium 7
-    ## 6       Hydrogen 7
-    ## 7       Nitrogen 7
-    ## 8     Phosphorus 1
-    ## 9         Sodium 1
-    ## 10         Xenon 3
+    ## 1          Argon 1
+    ## 2        Calcium 3
+    ## 3         Carbon 1
+    ## 4         Copper 3
+    ## 5  Data Stewards 2
+    ## 6         Helium 9
+    ## 7       Hydrogen 7
+    ## 8       Nitrogen 8
+    ## 9         Oxygen 1
+    ## 10    Phosphorus 1
+    ## 11        Sodium 2
+    ## 12         Xenon 3
