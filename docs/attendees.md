@@ -4,7 +4,9 @@ title: July 2018 DCPPC Workshop
 tagline: Attendees
 ---
 
-_July attendees as of July 6, 2018_
+_The following information was last updated on July 6, 2018._
+
+### List of attendees 
 
 <table>
 <thead>
@@ -181,18 +183,64 @@ _July attendees as of July 6, 2018_
 </tbody>
 </table> 
     
-_Overview of particpants per team_
-    
-    ##             Team n
-    ## 1          Argon 1
-    ## 2        Calcium 3
-    ## 3         Carbon 1
-    ## 4         Copper 3
-    ## 5  Data Stewards 2
-    ## 6         Helium 9
-    ## 7       Hydrogen 7
-    ## 8       Nitrogen 8
-    ## 9         Oxygen 1
-    ## 10    Phosphorus 1
-    ## 11        Sodium 2
-    ## 12         Xenon 3
+### Overview of particpants per team
+
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Team</th>
+<th style="text-align: right;">n</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Argon</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Calcium</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Carbon</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Copper</td>
+<td style="text-align: right;">3</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Data Stewards</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Helium</td>
+<td style="text-align: right;">9</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Hydrogen</td>
+<td style="text-align: right;">7</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Nitrogen</td>
+<td style="text-align: right;">8</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Oxygen</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Phosphorus</td>
+<td style="text-align: right;">1</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Sodium</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Xenon</td>
+<td style="text-align: right;">3</td>
+</tr>
+</tbody>
+</table>
