@@ -1,15 +1,8 @@
----
-layout: page
-title: July 2018 DCPPC Workshop 
-tagline: Attendees
----
-
-_The following information was last updated on July 6, 2018._
+*The following information was last updated on July 6, 2018.*
 
 ### List of attendees, sorted by team and first name
 
 <table class="table table-striped">
-<thead>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Team</th>
@@ -180,10 +173,7 @@ _The following information was last updated on July 6, 2018._
 </tbody>
 </table>
 
-   
-    
 ### Overview of particpants per team
-
 
 <table class="table table-striped">
 <thead>
