@@ -9,7 +9,7 @@ tagline: Agenda
 
 09:00 - Welcome remarks
  
-09:20 - Alastair Thomson - "What is HL(NHLBI) Data Stage"
+09:20 - Alastair Thomson - "What is the NHLBI DataSTAGE"
 
 09:40 - Lightning talks: The awesome things you have accomplished in the past.
 
