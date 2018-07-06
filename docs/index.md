@@ -8,14 +8,21 @@ _The July DCPPC workshop will be held at The Renaissance Computing Institute (RE
 
 ### Quick Links
 
-- [Registration](https://ti.to/dcppc/2018-july-workshop) Please note that _registration is required to attend_
-- [Attendees](./attendees.md) - _In progress_
-- [Agenda](./agenda.md) - A detailed agenda
+- **[Registration](https://ti.to/dcppc/2018-july-workshop)** Please note that _registration is required to attend_
+- **[Agenda](./agenda.md)** - The workshop agenda, subject to changes based on community suggestions.
+- [Attendees](./attendees.md) - _A list of all the people who have registered to date._
 - [Code of Conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md) - All members of the Commons are expected to follow the code of conduct. 
 - [Directions and parking](./directions.md)
 - [Reimbursements](./reimbursements.md) - details and a reimbursement form
 - [Restaurants](./restaurants.md)
 - [Slack](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) - Join the [#2018-monthly-workshop](https://nih-dcppc.slack.com/messages/CAMLGP27N/convo/GANQFSGAD-1528381202.000599/) channel to connect with other workshop attendees. 
+
+### Breakout groups
+
+In order to organize breakout 
+groups and hackathons ahead of time,
+please suggest topics by opening [issues 
+in the workshop repo](https://github.com/dcppc/2018-july-workshop/issues). 
 
 ### About the venue
 
