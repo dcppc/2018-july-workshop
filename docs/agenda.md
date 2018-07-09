@@ -32,6 +32,8 @@ _For up-to-date information on breakout sessions, please visit the [July Worksho
  
 16:30 - End
 
+**Dinner!** - Sarah Davis has arranged for a group dinner at [*Venable*](https://djhb9ok6owewm.cloudfront.net/b6jm8ki0/43f774ab-0174-4d46-81e3-6355e3bde002/Catering-VenableBSide.pdf ). There will be a $25 set menu (made specially for us) with vegan/veg/gluten-free options!
+
 
 ## Workshop Day 2:  July 26, 2018
 
