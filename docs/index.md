@@ -24,6 +24,10 @@ groups and hackathons ahead of time,
 please suggest topics by opening [issues 
 in the workshop repo](https://github.com/dcppc/2018-july-workshop/issues). 
 
+### Group Dinner! 
+
+We have arranged for a group dinner on the first night of the meeting (Wednesday, July 25) at [Kipos](http://kiposchapelhill.com/), 431 W. Franklin Street, Chapel Hill, North Carolina 27514. There will be a bus (and passenger van and carpools) that will take everyone down to Franklin Street right after the meeting ends on Wednesday. After dinner is over, you can take the bus back to the Sheraton, or you can stay on Franklin Street to sample the many evening activities and Uber home. 
+
 ### About the venue
 
 RENCI is located at [100 Europa Drive, Suite 540, Chapel Hill, NC 27517](https://www.google.com/maps/place/100+Europa+Dr,+Chapel+Hill,+NC+27517/@35.9392635,-79.020576,17z/data=!3m1!4b1!4m5!3m4!1s0x89ace7f888b92489:0x726a47e95db81d35!8m2!3d35.9392635!4d-79.0183873). It is located about 4 miles from the University of North Carolina at Chapel Hill campus and about 18 miles from RDU airport.

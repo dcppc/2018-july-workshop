@@ -32,7 +32,7 @@ _For up-to-date information on breakout sessions, please visit the [July Worksho
  
 16:30 - End
 
-**Dinner!** - Sarah Davis has arranged for a group dinner at [*Venable*](https://djhb9ok6owewm.cloudfront.net/b6jm8ki0/43f774ab-0174-4d46-81e3-6355e3bde002/Catering-VenableBSide.pdf ). There will be a $25 set menu (made specially for us) with vegan/veg/gluten-free options!
+**Dinner!** - We have arranged for a group dinner on the first night of the meeting (Wednesday, July 25) at [Kipos](http://kiposchapelhill.com/), 431 W. Franklin Street, Chapel Hill, North Carolina 27514. There will be a bus (and passenger van and carpools) that will take everyone down to Franklin Street right after the meeting ends on Wednesday. After dinner is over, you can take the bus back to the Sheraton, or you can stay on Franklin Street to sample the many evening activities and Uber home. 
 
 
 ## Workshop Day 2:  July 26, 2018
