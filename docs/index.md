@@ -24,9 +24,11 @@ groups and hackathons ahead of time,
 please suggest topics by opening [issues 
 in the workshop repo](https://github.com/dcppc/2018-july-workshop/issues). 
 
-### Group Dinner! 
+### Group Dinners! 
 
-We have arranged for a group dinner on the first night of the meeting (Wednesday, July 25) at [Kipos](http://kiposchapelhill.com/), 431 W. Franklin Street, Chapel Hill, North Carolina 27514. There will be a bus (and passenger van and carpools) that will take everyone down to Franklin Street right after the meeting ends on Wednesday. After dinner is over, you can take the bus back to the Sheraton, or you can stay on Franklin Street to sample the many evening activities and Uber home. 
+**Thursday the 24th, Project Manger Dinner**: The project managers will meet at [Namu](https://www.google.com/maps/place/Namu/@35.952594,-78.9986807,17z/data=!3m1!4b1!4m5!3m4!1s0x89ace7bfdf94f8af:0xafef89893549263!8m2!3d35.9525897!4d-78.996492), a Korean restaurant about 2 miles from RENCI and the Sheraton. Click the [here](https://www.google.com/maps/dir/100+Europa+Dr,+Chapel+Hill,+NC+27517/Namu,+Durham-Chapel+Hill+Boulevard,+Durham,+NC/@35.9468866,-79.023292,14z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89ace7f888b92489:0x726a47e95db81d35!2m2!1d-79.0185785!2d35.9395122!1m5!1m1!1s0x89ace7bfdf94f8af:0xafef89893549263!2m2!1d-78.996492!2d35.9525897!3e0) for directions. 
+
+**Friday the 25th, Group Dinner**: We have arranged for a group dinner on the first night of the meeting (Wednesday, July 25) at [Kipos](http://kiposchapelhill.com/), 431 W. Franklin Street, Chapel Hill, North Carolina 27514. There will be a bus (and passenger van and carpools) that will take everyone down to Franklin Street right after the meeting ends on Wednesday. After dinner is over, you can take the bus back to the Sheraton, or you can stay on Franklin Street to sample the many evening activities and Uber home. 
 
 ### About the venue
 
