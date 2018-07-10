@@ -2,7 +2,7 @@
 
 ### List of attendees, sorted by team and first name
 
-<table>
+<table class="table table-stripped">>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Team</th>
@@ -199,7 +199,7 @@
 
 ### Overview of particpants per team
 
-<table>
+<table class="table table-stripped">>
 <thead>
 <tr class="header">
 <th style="text-align: left;">Team</th>
