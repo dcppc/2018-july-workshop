@@ -1,4 +1,12 @@
-*The following information was last updated on July 9, 2018.*
+---
+layout: page
+title: July 2018 DCPPC Workshop 
+tagline: Attendees
+---
+
+*The following information was last updated on July 1, 2018.*
+
+48 people have registered for the July workshop!
 
 ### List of attendees, sorted by team and first name
 
