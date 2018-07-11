@@ -56,7 +56,15 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;">Data Stewards</td>
+<td style="text-align: left;">Francois Aguet</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Data Stewards</td>
 <td style="text-align: left;">Josh Bis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Data Stewards</td>
+<td style="text-align: left;">Sarah Nelson</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Helium</td>
@@ -203,57 +211,57 @@
 <thead>
 <tr class="header">
 <th style="text-align: left;">Team</th>
-<th style="text-align: left;">n</th>
+<th style="text-align: right;">n</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">Argon</td>
-<td style="text-align: left;">1</td>
+<td style="text-align: right;">1</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Calcium</td>
-<td style="text-align: left;">3</td>
+<td style="text-align: right;">3</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Carbon</td>
-<td style="text-align: left;">1</td>
+<td style="text-align: right;">1</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Copper</td>
-<td style="text-align: left;">3</td>
+<td style="text-align: right;">3</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Data Stewards</td>
-<td style="text-align: left;">4</td>
+<td style="text-align: right;">6</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Helium</td>
-<td style="text-align: left;">8</td>
+<td style="text-align: right;">8</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Hydrogen</td>
-<td style="text-align: left;">7</td>
+<td style="text-align: right;">7</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Nitrogen</td>
-<td style="text-align: left;">9</td>
+<td style="text-align: right;">9</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Oxygen</td>
-<td style="text-align: left;">3</td>
+<td style="text-align: right;">3</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Phosphorus</td>
-<td style="text-align: left;">2</td>
+<td style="text-align: right;">2</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">Sodium</td>
-<td style="text-align: left;">2</td>
+<td style="text-align: right;">2</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">Xenon</td>
-<td style="text-align: left;">3</td>
+<td style="text-align: right;">3</td>
 </tr>
 </tbody>
 </table>
