@@ -2,6 +2,7 @@
 layout: page
 title: July 2018 DCPPC Workshop 
 tagline: Agenda
+
 ---
 
 ## Workshop Day 1: July 25, 2018
