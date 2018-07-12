@@ -7,6 +7,8 @@ tagline: Agenda
 
 ## Workshop Day 1: July 25, 2018
 
+**Link to connect via Zoom: [https://zoom.us/j/558817992](https://zoom.us/j/562256926)**
+
 09:00 - Welcome remarks
  
 09:20 - Alastair Thomson - "What is the NHLBI DataSTAGE"
@@ -14,13 +16,12 @@ tagline: Agenda
 09:40 - Lightning talks: The awesome things you have accomplished in the past.
 
 _To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-july-workshop/issues/). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
- 
-  
+   
 10:30 - Coffee break (~20 minutes)
  
-12:00 -  Lunch (1 hour)         
+12:00 - Lunch (1 hour)         
 
-13:00 -  Breakout group planning
+13:00 - Breakout group planning
 
 _For up-to-date information on breakout sessions, please visit the [July Workshop issues page](https://github.com/dcppc/2018-july-workshop/issues)_
 
@@ -37,6 +38,9 @@ _For up-to-date information on breakout sessions, please visit the [July Worksho
 
 ## Workshop Day 2:  July 26, 2018
 
+**Link to connect via Zoom: [https://zoom.us/j/558817992](https://zoom.us/j/562256926)**
+
+
 09:00 - Welcome remarks
 
 09:10 - Question and Answer with Team Hydrogen
@@ -47,13 +51,13 @@ _To view the speaker order and to indicate who will represent your team, please 
 
 10:30 - Coffee break (~20 minutes)
  
-12:00 -  Lunch (1 hour)         
+12:00 - Catered lunch on your own or [NHLBI DataSTAGE lunch meeting](https://github.com/dcppc/2018-july-workshop/issues/9)       
 
-13:00 -  Breakout group planning
+13:00 - Breakout group planning
 
 _For up-to-date information on breakout sessions, please visit the [July Workshop issues page](https://github.com/dcppc/2018-july-workshop/issues)_
 
-13:30 -  Breakout session
+13:30 - Breakout session
 
 14:30 - Coffee break (~20 minutes)
 
