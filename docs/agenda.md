@@ -21,11 +21,9 @@ _To view the speaker order and to indicate who will represent your team, please 
  
 12:00 - Lunch (1 hour)         
 
-13:00 - Breakout group planning
+13:00 - Breakout sessions
 
 _For up-to-date information on breakout sessions, please visit the [July Workshop issues page](https://github.com/dcppc/2018-july-workshop/issues)_
-
-13:30 - Breakout session
 
 14:30 - Coffee break (~20 minutes)
 
@@ -53,11 +51,9 @@ _To view the speaker order and to indicate who will represent your team, please 
  
 12:00 - Catered lunch on your own or [NHLBI DataSTAGE lunch meeting](https://github.com/dcppc/2018-july-workshop/issues/9)       
 
-13:00 - Breakout group planning
+13:30 - Breakout sessions
 
 _For up-to-date information on breakout sessions, please visit the [July Workshop issues page](https://github.com/dcppc/2018-july-workshop/issues)_
-
-13:30 - Breakout session
 
 14:30 - Coffee break (~20 minutes)
 
