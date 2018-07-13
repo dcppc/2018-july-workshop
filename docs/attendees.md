@@ -4,11 +4,13 @@ title: July 2018 DCPPC Workshop
 tagline: Attendees
 ---
 
-*The following information was last updated on July 1, 2018.*
+*The following information was last updated on July 18, 2018.*
+
+
+### List of attendees, sorted by team and first name
 
 53 people have registered for the July workshop!
 
-### List of attendees, sorted by team and first name
 
 <table class="table table-stripped">
 <thead>
