@@ -69,6 +69,9 @@ For up-to date list, [visit the issue page](https://github.com/dcppc/2018-july-w
 
 | Github Issue Links |
 | ------------------ |
+| TBD: [FAIR assessment](https://github.com/dcppc/2018-july-workshop/issues/19) |
+| TBD: [Crosscut metadata models](https://github.com/dcppc/2018-july-workshop/issues/18) |
+| TBD: [VDS and whitelists](https://github.com/dcppc/2018-july-workshop/issues/17) |
 | TBD: [The RFC process](https://github.com/dcppc/2018-july-workshop/issues/16) |
 | TBD: [Cross-stack compute](https://github.com/dcppc/2018-july-workshop/issues/14) |
 | TBD: [On boarding](https://github.com/dcppc/2018-july-workshop/issues/12) |
