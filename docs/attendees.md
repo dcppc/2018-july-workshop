@@ -5,11 +5,9 @@ tagline: Attendees
 
 ---
 
-*The following information was last updated on July 16, 2018.*
+*The following information was last updated on July 17, 2018.*
 
 ### List of attendees, sorted by team and first name
-
-53 people have registered for the July workshop!
 
     ##             Team          Ticket Full Name
     ## 1          Argon                Ian Foster
@@ -18,70 +16,75 @@ tagline: Attendees
     ## 4        Calcium             David Siedzik
     ## 5        Calcium              Lon Blauvelt
     ## 6        Calcium              Moran Cabili
-    ## 7         Carbon             Jessica Lyons
-    ## 8         Copper        Amanda Charbonneau
-    ## 9         Copper                  Ben Carr
-    ## 10        Copper           Meredith Gamble
-    ## 11        Copper              Rayna Harris
-    ## 12        Copper                   S Edrie
-    ## 13        Copper        Sasha Wait Zaranek
-    ## 14 Data Stewards               Adam Wright
-    ## 15 Data Stewards               Ben Heavner
-    ## 16 Data Stewards              Cathy Laurie
-    ## 17 Data Stewards            Francois Aguet
-    ## 18 Data Stewards                  Josh Bis
-    ## 19 Data Stewards              Sarah Nelson
-    ## 20        Helium          Asia Mieczkowska
-    ## 21        Helium          Christopher Ball
-    ## 22        Helium           Claris Castillo
-    ## 23        Helium               Deepak Unni
-    ## 24        Helium               Karen Davis
-    ## 25        Helium              Kevin Wilson
-    ## 26        Helium              Martha Wewer
-    ## 27        Helium               Ray Idaszak
-    ## 28        Helium               Sarah Davis
-    ## 29        Helium                Stan Ahalt
-    ## 30      Hydrogen          Alastair Thomson
-    ## 31      Hydrogen            Ingrid Borecki
-    ## 32      Hydrogen Ishwar Chandramouliswaran
-    ## 33      Hydrogen                 Jen Yttri
-    ## 34      Hydrogen         Kristen Cleveland
-    ## 35      Hydrogen           susan gregurick
-    ## 36      Hydrogen            Vivien Bonazzi
-    ## 37      Nitrogen        Alexander Lachmann
-    ## 38      Nitrogen               Avi Ma'ayan
-    ## 39      Nitrogen             Daniel Clarke
-    ## 40      Nitrogen             Daniel Cooper
-    ## 41      Nitrogen             Juergen Klenk
-    ## 42      Nitrogen                 Lily Wang
-    ## 43      Nitrogen       Megan Wojciechowicz
-    ## 44      Nitrogen            Sherry Jenkins
-    ## 45      Nitrogen          Stephan Schuerer
-    ## 46        Oxygen           Anupama Gururaj
-    ## 47        Oxygen              Kirk Roberts
-    ## 48        Oxygen       Lucila Ohno-Machado
-    ## 49    Phosphorus         Jonathan Crabtree
-    ## 50    Phosphorus            Olukemi Ifeonu
-    ## 51        Sodium              Merce Crosas
-    ## 52        Sodium        Sarala Wimalaratne
-    ## 53         Xenon             Alison E Leaf
-    ## 54         Xenon                  Igor Hut
-    ## 55         Xenon           Ross Rounsevell
-    ## 56         Xenon            Saiju Pyarajan
-    ## 57         Xenon          Vladimir Obucina
+    ## 7        Calcium           Robert Grossman
+    ## 8         Carbon             Jessica Lyons
+    ## 9         Copper        Amanda Charbonneau
+    ## 10        Copper                  Ben Carr
+    ## 11        Copper           Meredith Gamble
+    ## 12        Copper            Phillip Brooks
+    ## 13        Copper              Rayna Harris
+    ## 14        Copper                   S Edrie
+    ## 15        Copper        Sasha Wait Zaranek
+    ## 16 Data Stewards               Adam Wright
+    ## 17 Data Stewards               Ben Heavner
+    ## 18 Data Stewards              Cathy Laurie
+    ## 19 Data Stewards            Francois Aguet
+    ## 20 Data Stewards                  Josh Bis
+    ## 21 Data Stewards            Mary Shimoyama
+    ## 22 Data Stewards              Sarah Nelson
+    ## 23        Helium          Asia Mieczkowska
+    ## 24        Helium          Christopher Ball
+    ## 25        Helium           Claris Castillo
+    ## 26        Helium               Deepak Unni
+    ## 27        Helium               Karen Davis
+    ## 28        Helium              Kevin Wilson
+    ## 29        Helium              Martha Wewer
+    ## 30        Helium               Ray Idaszak
+    ## 31        Helium               Sarah Davis
+    ## 32        Helium                Stan Ahalt
+    ## 33      Hydrogen          Alastair Thomson
+    ## 34      Hydrogen            Ingrid Borecki
+    ## 35      Hydrogen Ishwar Chandramouliswaran
+    ## 36      Hydrogen                 Jen Yttri
+    ## 37      Hydrogen         Kristen Cleveland
+    ## 38      Hydrogen           susan gregurick
+    ## 39      Hydrogen            Vivien Bonazzi
+    ## 40      Nitrogen        Alexander Lachmann
+    ## 41      Nitrogen               Avi Ma'ayan
+    ## 42      Nitrogen             Daniel Clarke
+    ## 43      Nitrogen             Daniel Cooper
+    ## 44      Nitrogen             Juergen Klenk
+    ## 45      Nitrogen                 Lily Wang
+    ## 46      Nitrogen       Megan Wojciechowicz
+    ## 47      Nitrogen            Sherry Jenkins
+    ## 48      Nitrogen          Stephan Schuerer
+    ## 49         Other                Karen Yook
+    ## 50        Oxygen           Anupama Gururaj
+    ## 51        Oxygen              Kirk Roberts
+    ## 52        Oxygen       Lucila Ohno-Machado
+    ## 53    Phosphorus         Jonathan Crabtree
+    ## 54    Phosphorus            Olukemi Ifeonu
+    ## 55        Sodium              Merce Crosas
+    ## 56        Sodium        Sarala Wimalaratne
+    ## 57         Xenon             Alison E Leaf
+    ## 58         Xenon                  Igor Hut
+    ## 59         Xenon           Ross Rounsevell
+    ## 60         Xenon            Saiju Pyarajan
+    ## 61         Xenon          Vladimir Obucina
 
 ### Overview of particpants per team
 
     ##             Team  n
     ## 1          Argon  2
-    ## 2        Calcium  4
+    ## 2        Calcium  5
     ## 3         Carbon  1
-    ## 4         Copper  6
-    ## 5  Data Stewards  6
+    ## 4         Copper  7
+    ## 5  Data Stewards  7
     ## 6         Helium 10
     ## 7       Hydrogen  7
     ## 8       Nitrogen  9
-    ## 9         Oxygen  3
-    ## 10    Phosphorus  2
-    ## 11        Sodium  2
-    ## 12         Xenon  5
+    ## 9          Other  1
+    ## 10        Oxygen  3
+    ## 11    Phosphorus  2
+    ## 12        Sodium  2
+    ## 13         Xenon  5
