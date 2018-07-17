@@ -69,6 +69,7 @@ For up-to date list, [visit the issue page](https://github.com/dcppc/2018-july-w
 
 | Github Issue Links |
 | ------------------ |
+| TBD: [The RFC process](https://github.com/dcppc/2018-july-workshop/issues/16) |
 | TBD: [Cross-stack compute](https://github.com/dcppc/2018-july-workshop/issues/14) |
 | TBD: [On boarding](https://github.com/dcppc/2018-july-workshop/issues/12) |
 | Day 2: [Data access and security](https://github.com/dcppc/2018-july-workshop/issues/13) |
