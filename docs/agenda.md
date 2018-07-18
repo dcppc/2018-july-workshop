@@ -75,7 +75,6 @@ For up-to date list, [visit the issue page](https://github.com/dcppc/2018-july-w
 | TBD: [The RFC process](https://github.com/dcppc/2018-july-workshop/issues/16) |
 | TBD: [Cross-stack compute](https://github.com/dcppc/2018-july-workshop/issues/14) |
 | TBD: [On boarding](https://github.com/dcppc/2018-july-workshop/issues/12) |
-| Day 2: [Data access and security](https://github.com/dcppc/2018-july-workshop/issues/13) |
 | Day 2: [KC6 standardization](https://github.com/dcppc/2018-july-workshop/issues/7) |
 | Day 1: [Consent ethics and security](https://github.com/dcppc/2018-july-workshop/issues/8) |
 | Day 1: [KC2 and full stacks meetup](https://github.com/dcppc/2018-july-workshop/issues/6) |
