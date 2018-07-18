@@ -15,12 +15,12 @@ tagline: Agenda
 
 09:40 - Lightning talks: The awesome things you have accomplished in the past.
 
-_To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-july-workshop/issues/). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
+_To view the speaker order and to indicate who will represent your team, please visit [this Lightning Talks Day 1issue](https://github.com/dcppc/2018-july-workshop/issues/4). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
    
 10:30 - Coffee break (~20 minutes)
  
-12:00 - Lunch (1 hour)         
-
+12:00 - Lunch (1 hour) 
+    
 13:00 - Breakout sessions
 
 _For up-to-date information on breakout sessions, please visit the [July Workshop issues page](https://github.com/dcppc/2018-july-workshop/issues)_
@@ -41,9 +41,9 @@ _For up-to-date information on breakout sessions, please visit the [July Worksho
 
 09:10 - Question and Answer with Team Hydrogen
  
-09:30 - Lightning talks: The awesome things you  hope to accomplish in the future.
+09:30 - Lightning talks: The awesome things you  hope to accomplish in the future. Each speaker will have 5 minutes to present and 3 minutes for Q&A.
 
-_To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-july-workshop/issues/). Each speaker will have 5 minutes to present and 3 minutes for Q&A._
+_To view the speaker order and to indicate who will represent your team, please visit [this issue](https://github.com/dcppc/2018-july-workshop/issues/)._
 
 10:30 - Coffee break (~20 minutes)
  
@@ -62,3 +62,19 @@ _For up-to-date information on breakout sessions, please visit the [July Worksho
 16:20 - Closing remarks
 
 16:30 - End
+
+### Proposed Breakout sessions
+
+For up-to date list, [visit the issue page](https://github.com/dcppc/2018-july-workshop/issues?q=is%3Aissue+is%3Aopen+label%3A%22proposed+session%22) filtered for proposed session.
+
+| Github Issue Links |
+| ------------------ |
+| TBD: [FAIR assessment](https://github.com/dcppc/2018-july-workshop/issues/19) |
+| TBD: [Crosscut metadata models](https://github.com/dcppc/2018-july-workshop/issues/18) |
+| TBD: [VDS and whitelists](https://github.com/dcppc/2018-july-workshop/issues/17) |
+| TBD: [The RFC process](https://github.com/dcppc/2018-july-workshop/issues/16) |
+| TBD: [Cross-stack compute](https://github.com/dcppc/2018-july-workshop/issues/14) |
+| TBD: [On boarding](https://github.com/dcppc/2018-july-workshop/issues/12) |
+| Day 2: [KC6 standardization](https://github.com/dcppc/2018-july-workshop/issues/7) |
+| Day 1: [Consent ethics and security](https://github.com/dcppc/2018-july-workshop/issues/8) |
+| Day 1: [KC2 and full stacks meetup](https://github.com/dcppc/2018-july-workshop/issues/6) |
