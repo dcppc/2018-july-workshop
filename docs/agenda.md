@@ -24,6 +24,7 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 	- [KC2 and full stacks meetup](https://github.com/dcppc/2018-july-workshop/issues/6)
 	- [Consent ethics and security](https://github.com/dcppc/2018-july-workshop/issues/8)
 	- [Crosscut metadata models](https://github.com/dcppc/2018-july-workshop/issues/18) 
+	- [Onboard PMs to other stacks](https://github.com/dcppc/2018-july-workshop/issues/12) 
 - 14:30: Coffee break 
 - 14:50: [Breakout sessions continued](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
 - 16:00: Breakout session recap 
@@ -47,6 +48,8 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 	- [The whitelist process](https://github.com/dcppc/2018-july-workshop/issues/17) 
 	- [KC6 standardization](https://github.com/dcppc/2018-july-workshop/issues/7) 
 	- [FAIR assessment](https://github.com/dcppc/2018-july-workshop/issues/19)
+	-  [The RFC process](https://github.com/dcppc/2018-july-workshop/issues/16) 
+	-  [Cross-stack compute](https://github.com/dcppc/2018-july-workshop/issues/14) 	
 - 14:30: Coffee break 
 - 15:00: [Breakout sessions continued](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
 - 16:00: Breakout session recap 
@@ -58,6 +61,3 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 
 For up-to date list, [visit the issue page](https://github.com/dcppc/2018-july-workshop/issues?q=is%3Aissue+is%3Aopen+label%3A%22proposed+session%22) filtered for proposed session.
 
-- TBD: [Improving onboarding documentation](https://github.com/dcppc/2018-july-workshop/issues/20): 
-- TBD: [The RFC process](https://github.com/dcppc/2018-july-workshop/issues/16) - TBD: [Cross-stack compute](https://github.com/dcppc/2018-july-workshop/issues/14) 
-- TBD: [Onboard PMs to other stacks](https://github.com/dcppc/2018-july-workshop/issues/12) 
