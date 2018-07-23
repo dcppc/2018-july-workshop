@@ -30,7 +30,7 @@ Time | Description
 **Link to connect via Zoom: [https://zoom.us/j/558817992](https://zoom.us/j/562256926)**
 
 Time | Description
----- | -----------
+---: | :---
 09:00 | Welcome remarks
 09:10 | *Question and Answer with Team Hydrogen*
 09:30 | Lightning talks: [Click here for speaker order and details](https://github.com/dcppc/2018-july-workshop/issues/5)
