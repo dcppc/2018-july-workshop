@@ -21,10 +21,10 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 - 10:50: [Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/4) 
 - 12:00: Lunch 
 - 13:00: [Breakout sessions](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
-	- [KC2 and full stacks meetup](https://github.com/dcppc/2018-july-workshop/issues/6)
-	- [Consent ethics and security](https://github.com/dcppc/2018-july-workshop/issues/8)
-	- [Crosscut metadata models](https://github.com/dcppc/2018-july-workshop/issues/18) 
-	- [Onboard PMs to other stacks](https://github.com/dcppc/2018-july-workshop/issues/12) 
+		- [KC2 and full stacks meetup](https://github.com/dcppc/2018-july-workshop/issues/6)
+		- [Consent ethics and security](https://github.com/dcppc/2018-july-workshop/issues/8)
+		- [Crosscut metadata models](https://github.com/dcppc/2018-july-workshop/issues/18) 
+		- [Onboard PMs to other stacks](https://github.com/dcppc/2018-july-workshop/issues/12) 
 - 14:30: Coffee break 
 - 14:50: [Breakout sessions continued](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
 - 16:00: Breakout session recap 
@@ -45,19 +45,15 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 - 10:50: [Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/5)
 - 12:00: Lunch, including [*NHLBI DataSTAGE lunch meeting*](https://github.com/dcppc/2018-july-workshop/issues/9)       
 - 13:00: [Breakout sessions](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
-	- [The whitelist process](https://github.com/dcppc/2018-july-workshop/issues/17) 
-	- [KC6 standardization](https://github.com/dcppc/2018-july-workshop/issues/7) 
-	- [FAIR assessment](https://github.com/dcppc/2018-july-workshop/issues/19)
-	-  [The RFC process](https://github.com/dcppc/2018-july-workshop/issues/16) 
-	-  [Cross-stack compute](https://github.com/dcppc/2018-july-workshop/issues/14) 	
+		- [The whitelist process](https://github.com/dcppc/2018-july-workshop/issues/17) 
+		- [KC6 standardization](https://github.com/dcppc/2018-july-workshop/issues/7) 
+		- [FAIR assessment](https://github.com/dcppc/2018-july-workshop/issues/19)
+		-  [The RFC process](https://github.com/dcppc/2018-july-workshop/issues/16) 
+		-  [Cross-stack compute](https://github.com/dcppc/2018-july-workshop/issues/14) 	
 - 14:30: Coffee break 
 - 15:00: [Breakout sessions continued](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
 - 16:00: Breakout session recap 
 - 16:10: [Post-workshop survey](https://ucdavis.co1.qualtrics.com/jfe/form/SV_43isVLx7nDYnOuN)
 - 16:20: Closing remarks
 - 16:30: End
-
-### Additional proposed breakout sessions not yet assigned to an afternoon
-
-For up-to date list, [visit the issue page](https://github.com/dcppc/2018-july-workshop/issues?q=is%3Aissue+is%3Aopen+label%3A%22proposed+session%22) filtered for proposed session.
 
