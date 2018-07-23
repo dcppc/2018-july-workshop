@@ -53,7 +53,6 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 - 14:30: Coffee break 
 - 15:00: [Breakout sessions continued](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
 - 16:00: Breakout session recap 
-- 16:10: [Post-workshop survey](https://ucdavis.co1.qualtrics.com/jfe/form/SV_43isVLx7nDYnOuN)
-- 16:20: Closing remarks
+- 16:20: [Post-workshop survey](https://ucdavis.co1.qualtrics.com/jfe/form/SV_43isVLx7nDYnOuN)
 - 16:30: End
 
