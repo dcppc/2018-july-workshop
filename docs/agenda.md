@@ -17,7 +17,7 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 - 09:00: Welcome remarks
 - 09:20: **Alastair Thomson: What is the NHLBI DataSTAGE**
 - 09:40: [Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/4)  
-- 10:30: Coffee break (~20 minutes)
+- 10:30: Coffee break
 - 10:50: [Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/4) 
 - 12:00: Lunch 
 - 13:00: [Breakout sessions](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
