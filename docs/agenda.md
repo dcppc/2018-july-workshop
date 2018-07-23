@@ -15,14 +15,14 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 
 **Time: Description**
 - 09:00: Welcome remarks
-- 09:20: *Alastair Thomson: What is the NHLBI DataSTAGE*
-- 09:40: Lightning talks: [Click here for speaker order and details](https://github.com/dcppc/2018-july-workshop/issues/4)  
+- 09:20: **Alastair Thomson: What is the NHLBI DataSTAGE**
+- 09:40: [Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/4)  
 - 10:30: Coffee break (~20 minutes)
-- 10:50: Lightning talks continued: [Click here for speaker order and details](https://github.com/dcppc/2018-july-workshop/issues/4) 
+- 10:50: [Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/4) 
 - 12:00: Lunch 
-- 13:00: Breakout sessions: [Click here for details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
+- 13:00: [Breakout sessions](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
 - 14:30: Coffee break 
-- 14:50: Breakout sessions continued: [Click here for details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
+- 14:50: [Breakout sessions continued](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
 - 16:00: Breakout session recap 
 - 16:30: End
 
@@ -35,16 +35,16 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 
 **Time: Description**
 - 09:00: Welcome remarks
-- 09:10: *Question and Answer with Team Hydrogen*
-- 09:30: Lightning talks: [Click here for speaker order and details](https://github.com/dcppc/2018-july-workshop/issues/5)
+- 09:10: **Question and Answer with Team Hydrogen**
+- 09:30: [Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/5)
 - 10:30: Coffee break 
-- 10:50: Lightning talks continued: [Click here for speaker order and details](https://github.com/dcppc/2018-july-workshop/issues/5)
+- 10:50: [Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/5)
 - 12:00: Lunch, including [*NHLBI DataSTAGE lunch meeting*](https://github.com/dcppc/2018-july-workshop/issues/9)       
-- 13:00: Breakout sessions: [Click here for details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
+- 13:00: [Breakout sessions](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
 - 14:30: Coffee break 
-- 15:00: Breakout sessions continued: [Click here for - details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
+- 15:00: [Breakout sessions continued](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
 - 16:00: Breakout session recap 
-- 16:10: Post-workshop survey
+- 16:10: [Post-workshop survey](https://ucdavis.co1.qualtrics.com/jfe/form/SV_43isVLx7nDYnOuN)
 - 16:20: Closing remarks
 - 16:30: End
 
