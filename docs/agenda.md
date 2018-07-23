@@ -9,112 +9,19 @@ tagline: Agenda
 
 **Link to connect via Zoom: [https://zoom.us/j/558817992](https://zoom.us/j/562256926)**
 
-<table class="table table-striped">
-<thead>
-<tr>
-<th style="text-align:left;">
-Time
-</th>
-<th style="text-align:left;">
-Description
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-09:00
-</td>
-<td style="text-align:left;">
-Welcome remarks
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-09:20
-</td>
-<td style="text-align:left;">
-*Alastair Thomson: What is the NHLBI DataSTAGE*
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-09:40
-</td>
-<td style="text-align:left;">
-Lightning talks: [Click here for speaker order and
-details](https://github.com/dcppc/2018-july-workshop/issues/4)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10:30
-</td>
-<td style="text-align:left;">
-Coffee break (~20 minutes)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10:50
-</td>
-<td style="text-align:left;">
-Lightning talks continued: [Click here for speaker order and
-details](https://github.com/dcppc/2018-july-workshop/issues/4)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-12:00
-</td>
-<td style="text-align:left;">
-Lunch
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-13:00
-</td>
-<td style="text-align:left;">
-Breakout sessions: [Click here for
-details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-14:30
-</td>
-<td style="text-align:left;">
-Coffee break
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-14:50
-</td>
-<td style="text-align:left;">
-Breakout sessions continued: [Click here for
-details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-16:00
-</td>
-<td style="text-align:left;">
-Breakout session recap
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-16:30
-</td>
-<td style="text-align:left;">
-End
-</td>
-</tr>
-</tbody>
-</table>
+Time | Description
+---- | -----------
+09:00 | Welcome remarks
+09:20 | *Alastair Thomson: What is the NHLBI DataSTAGE*
+09:40 | Lightning talks: [Click here for speaker order and details](https://github.com/dcppc/2018-july-workshop/issues/4)  
+10:30 | Coffee break (~20 minutes)
+10:50 | Lightning talks continued: [Click here for speaker order and details](https://github.com/dcppc/2018-july-workshop/issues/4) 
+12:00 | Lunch 
+13:00 | Breakout sessions: [Click here for details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
+14:30 | Coffee break 
+14:50 | Breakout sessions continued: [Click here for details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
+16:00 | Breakout session recap 
+16:30 | End
 
 **Dinner!** - We have arranged for a group dinner on the first night of the meeting (Wednesday, July 25) at [Kipos](http://kiposchapelhill.com/), 431 W. Franklin Street, Chapel Hill, North Carolina 27514. There will be a bus (and passenger van and carpools) that will take everyone down to Franklin Street right after the meeting ends on Wednesday. After dinner is over, you can take the bus back to the Sheraton, or you can stay on Franklin Street to sample the many evening activities and Uber home. 
 
@@ -122,136 +29,21 @@ End
 
 **Link to connect via Zoom: [https://zoom.us/j/558817992](https://zoom.us/j/562256926)**
 
-<table class="table table-striped">
-<thead>
-<tr>
-<th style="text-align:left;">
-Time
-</th>
-<th style="text-align:left;">
-Description
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left;">
-09:00
-</td>
-<td style="text-align:left;">
-Welcome remarks
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-09:10
-</td>
-<td style="text-align:left;">
-*Question and Answer with Team Hydrogen*
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-09:30
-</td>
-<td style="text-align:left;">
-Lightning talks: [Click here for speaker order and
-details](https://github.com/dcppc/2018-july-workshop/issues/5)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10:30
-</td>
-<td style="text-align:left;">
-Coffee break
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-10:50
-</td>
-<td style="text-align:left;">
-Lightning talks continued: [Click here for speaker order and
-details](https://github.com/dcppc/2018-july-workshop/issues/5)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-12:00
-</td>
-<td style="text-align:left;">
-Lunch
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-including [*NHLBI DataSTAGE lunch
-meeting*](https://github.com/dcppc/2018-july-workshop/issues/9)
-</td>
-<td style="text-align:left;">
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-13:00
-</td>
-<td style="text-align:left;">
-Breakout sessions: [Click here for
-details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-14:30
-</td>
-<td style="text-align:left;">
-Coffee break
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-13:00
-</td>
-<td style="text-align:left;">
-Breakout sessions continued: [Click here for
-details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-16:00
-</td>
-<td style="text-align:left;">
-Breakout session recap
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-16:10
-</td>
-<td style="text-align:left;">
-Post-workshop survey
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-16:20
-</td>
-<td style="text-align:left;">
-Closing remarks
-</td>
-</tr>
-<tr>
-<td style="text-align:left;">
-16:30
-</td>
-<td style="text-align:left;">
-End
-</td>
-</tr>
-</tbody>
-</table>
+Time | Description
+---: | :---
+09:00 | Welcome remarks
+09:10 | *Question and Answer with Team Hydrogen*
+09:30 | Lightning talks: [Click here for speaker order and details](https://github.com/dcppc/2018-july-workshop/issues/5)
+10:30 | Coffee break 
+10:50 | Lightning talks continued: [Click here for speaker order and details](https://github.com/dcppc/2018-july-workshop/issues/5)
+12:00 | Lunch, including [*NHLBI DataSTAGE lunch meeting*](https://github.com/dcppc/2018-july-workshop/issues/9)       
+13:00 | Breakout sessions: [Click here for details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
+14:30 | Coffee break 
+13:00 | Breakout sessions continued: [Click here for details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
+16:00 | Breakout session recap 
+16:10 | Post-workshop survey
+16:20 | Closing remarks
+16:30 | End
 
 ### Proposed Breakout sessions
 
