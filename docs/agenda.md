@@ -19,7 +19,7 @@ Time | Description
 12:00 | Lunch 
 13:00 | Breakout sessions: [Click here for details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
 14:30 | Coffee break 
-14:5 | Breakout sessions continued: [Click here for details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
+14:50 | Breakout sessions continued: [Click here for details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
 16:00 | Breakout session recap 
 16:30 | End
 
@@ -36,7 +36,7 @@ Time | Description
 09:30 | Lightning talks: [Click here for speaker order and details](https://github.com/dcppc/2018-july-workshop/issues/5)
 10:30 | Coffee break 
 10:50 | Lightning talks continued: [Click here for speaker order and details](https://github.com/dcppc/2018-july-workshop/issues/5)
- 12:00 | Lunch, including [*NHLBI DataSTAGE lunch meeting*](https://github.com/dcppc/2018-july-workshop/issues/9)       
+12:00 | Lunch, including [*NHLBI DataSTAGE lunch meeting*](https://github.com/dcppc/2018-july-workshop/issues/9)       
 13:00 | Breakout sessions: [Click here for details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
 14:30 | Coffee break 
 13:00 | Breakout sessions continued: [Click here for details](https://github.com/dcppc/2018-july-workshop/labels/proposed%20session)
@@ -51,12 +51,13 @@ For up-to date list, [visit the issue page](https://github.com/dcppc/2018-july-w
 
 | Github Issue Links |
 | ------------------ |
+| TBD: [Improving onboarding documentation](https://github.com/dcppc/2018-july-workshop/issues/20) | 
 | TBD: [FAIR assessment](https://github.com/dcppc/2018-july-workshop/issues/19) |
 | TBD: [Crosscut metadata models](https://github.com/dcppc/2018-july-workshop/issues/18) |
 | TBD: [The RFC process](https://github.com/dcppc/2018-july-workshop/issues/16) |
 | TBD: [Cross-stack compute](https://github.com/dcppc/2018-july-workshop/issues/14) |
-| TBD: [On boarding](https://github.com/dcppc/2018-july-workshop/issues/12) |
-| Day 2: [VDS and whitelists](https://github.com/dcppc/2018-july-workshop/issues/17) |
+| TBD: [Onboard PMs to other stacks](https://github.com/dcppc/2018-july-workshop/issues/12) |
+| Day 2: [the whitelist process](https://github.com/dcppc/2018-july-workshop/issues/17) |
 | Day 2: [KC6 standardization](https://github.com/dcppc/2018-july-workshop/issues/7) |
 | Day 1: [Consent ethics and security](https://github.com/dcppc/2018-july-workshop/issues/8) |
 | Day 1: [KC2 and full stacks meetup](https://github.com/dcppc/2018-july-workshop/issues/6) |
