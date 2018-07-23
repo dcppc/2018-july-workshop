@@ -4,7 +4,6 @@ title: July 2018 DCPPC Workshop
 tagline: Attendees
 
 ---
-
 *The following information was last updated on July 22, 2018.*
 
 ### List of attendees, sorted by team and first name
@@ -35,49 +34,50 @@ tagline: Attendees
     ## 23 Data Stewards                Karen Yook
     ## 24 Data Stewards            Mary Shimoyama
     ## 25 Data Stewards              Sarah Nelson
-    ## 26        Helium          Asia Mieczkowska
-    ## 27        Helium          Christopher Ball
-    ## 28        Helium           Claris Castillo
-    ## 29        Helium               Deepak Unni
-    ## 30        Helium               Karen Davis
-    ## 31        Helium              Kevin Wilson
-    ## 32        Helium              Martha Wewer
-    ## 33        Helium               Ray Idaszak
-    ## 34        Helium               Sarah Davis
-    ## 35        Helium                Stan Ahalt
-    ## 36      Hydrogen          Alastair Thomson
-    ## 37      Hydrogen            Ingrid Borecki
-    ## 38      Hydrogen Ishwar Chandramouliswaran
-    ## 39      Hydrogen                 Jen Yttri
+    ## 26     DataSTAGE          Alastair Thomson
+    ## 27        Helium          Asia Mieczkowska
+    ## 28        Helium          Christopher Ball
+    ## 29        Helium           Claris Castillo
+    ## 30        Helium               Deepak Unni
+    ## 31        Helium               Karen Davis
+    ## 32        Helium              Kevin Wilson
+    ## 33        Helium              Martha Wewer
+    ## 34        Helium               Ray Idaszak
+    ## 35        Helium               Sarah Davis
+    ## 36        Helium                Stan Ahalt
+    ## 37      Hydrogen          Alastair Thomson
+    ## 38      Hydrogen            Ingrid Borecki
+    ## 39      Hydrogen Ishwar Chandramouliswaran
     ## 40      Hydrogen                 Jen Yttri
-    ## 41      Hydrogen         Kristen Cleveland
-    ## 42      Hydrogen           susan gregurick
-    ## 43      Hydrogen            Vivien Bonazzi
-    ## 44      Nitrogen           Alexander Jones
-    ## 45      Nitrogen        Alexander Lachmann
-    ## 46      Nitrogen               Avi Ma'ayan
-    ## 47      Nitrogen             Daniel Clarke
-    ## 48      Nitrogen             Daniel Cooper
-    ## 49      Nitrogen             Juergen Klenk
-    ## 50      Nitrogen                 Lily Wang
-    ## 51      Nitrogen       Megan Wojciechowicz
-    ## 52      Nitrogen          Rayneisha Watson
-    ## 53      Nitrogen            Sherry Jenkins
-    ## 54      Nitrogen          Stephan Schuerer
-    ## 55        Oxygen           Anupama Gururaj
-    ## 56        Oxygen              Kirk Roberts
-    ## 57        Oxygen       Lucila Ohno-Machado
-    ## 58    Phosphorus         Jonathan Crabtree
-    ## 59    Phosphorus            Olukemi Ifeonu
-    ## 60        Sodium              Max Levinson
-    ## 61        Sodium              Merce Crosas
-    ## 62        Sodium        Sarala Wimalaratne
-    ## 63        Sodium             Timothy Clark
-    ## 64         Xenon             Alison E Leaf
-    ## 65         Xenon                  Igor Hut
-    ## 66         Xenon           Ross Rounsevell
-    ## 67         Xenon            Saiju Pyarajan
-    ## 68         Xenon          Vladimir Obucina
+    ## 41      Hydrogen                 Jen Yttri
+    ## 42      Hydrogen         Kristen Cleveland
+    ## 43      Hydrogen           susan gregurick
+    ## 44      Hydrogen            Vivien Bonazzi
+    ## 45      Nitrogen           Alexander Jones
+    ## 46      Nitrogen        Alexander Lachmann
+    ## 47      Nitrogen               Avi Ma'ayan
+    ## 48      Nitrogen             Daniel Clarke
+    ## 49      Nitrogen             Daniel Cooper
+    ## 50      Nitrogen             Juergen Klenk
+    ## 51      Nitrogen                 Lily Wang
+    ## 52      Nitrogen       Megan Wojciechowicz
+    ## 53      Nitrogen          Rayneisha Watson
+    ## 54      Nitrogen            Sherry Jenkins
+    ## 55      Nitrogen          Stephan Schuerer
+    ## 56        Oxygen           Anupama Gururaj
+    ## 57        Oxygen              Kirk Roberts
+    ## 58        Oxygen       Lucila Ohno-Machado
+    ## 59    Phosphorus         Jonathan Crabtree
+    ## 60    Phosphorus            Olukemi Ifeonu
+    ## 61        Sodium              Max Levinson
+    ## 62        Sodium              Merce Crosas
+    ## 63        Sodium        Sarala Wimalaratne
+    ## 64        Sodium             Timothy Clark
+    ## 65         Xenon             Alison E Leaf
+    ## 66         Xenon                  Igor Hut
+    ## 67         Xenon           Ross Rounsevell
+    ## 68         Xenon            Saiju Pyarajan
+    ## 69         Xenon          Vladimir Obucina
 
 ### Overview of particpants per team
 
@@ -87,15 +87,22 @@ tagline: Attendees
     ## 3         Carbon  1
     ## 4         Copper  8
     ## 5  Data Stewards  8
-    ## 6         Helium 10
-    ## 7       Hydrogen  8
-    ## 8       Nitrogen 11
-    ## 9         Oxygen  3
-    ## 10    Phosphorus  2
-    ## 11        Sodium  4
-    ## 12         Xenon  5
+    ## 6      DataSTAGE  1
+    ## 7         Helium 10
+    ## 8       Hydrogen  8
+    ## 9       Nitrogen 11
+    ## 10        Oxygen  3
+    ## 11    Phosphorus  2
+    ## 12        Sodium  4
+    ## 13         Xenon  5
     
  
-### Overview of Objectives, Teams, and Key Capacities (KC)
+### Overview of Objectives, Teams, and Key Capacities 
  
-![](./DCPPC_overview.png)   
+Visit these websites for more information regarding Teams and Key Capacities
+- <https://pilot.nihdatacommons.us/organize/glossary/> Glossary of frequently used acronyms and names
+- <http://www.maayanlab.net/NMG/2018/> Data Commons Network Matching Game
+- <https://nihdatacommons.us/members/> PIs and Key Capabilities
+- <https://nihdatacommons.us> NIH Data Commons Project Overview
+- <https://pilot.nihdatacommons.us/organize/onboarding/teams/> List of Teams and main points of contact
+- <https://pilot.nihdatacommons.us/organize/onboarding/key-capabilities/> Key Capability and Working Groups descriptions 
