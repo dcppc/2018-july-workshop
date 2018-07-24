@@ -46,7 +46,7 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 - 12:00: Lunch, including [*NHLBI DataSTAGE lunch meeting*](https://github.com/dcppc/2018-july-workshop/issues/9)       
 - 13:00: [Day 2 Breakout sessions](https://github.com/dcppc/2018-july-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+label%3A%22proposed+session%22+)
 	- [Whitelist process](https://github.com/dcppc/2018-july-workshop/issues/17): Zoom connection: [https://zoom.us/j/578893575](https://zoom.us/j/578893575) 
-	- [KC6 standardization](https://github.com/dcppc/2018-july-workshop/issues/7) 
+	- [KC6 standardization](https://github.com/dcppc/2018-july-workshop/issues/7): Zoom connection: [https://zoom.us/j/868515949](https://zoom.us/j/868515949)
 	- [KC6: Blockchain WG breakout](https://github.com/dcppc/2018-july-workshop/issues/21) 
 	- [FAIR assessment](https://github.com/dcppc/2018-july-workshop/issues/19)
 	- [The RFC process](https://github.com/dcppc/2018-july-workshop/issues/16) 
