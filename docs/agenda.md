@@ -11,14 +11,14 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 
 ### Workshop Day 1: July 25, 2018
 
-**Link to connect via Zoom: [https://zoom.us/j/558817992](https://zoom.us/j/562256926)**
+**Link to connect via Zoom: [https://zoom.us/j/558817992](https://zoom.us/j/558817992)**
 
 **Time: Description**
 - 09:00: Welcome remarks
 - 09:20: Alastair Thomson: What is the NHLBI DataSTAGE
-- 09:40: [Day 1 Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/4)  
+- 09:40: [Day 1 Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/4): Zoom connection <https://zoom.us/j/558817992> 
 - 10:30: Coffee break
-- 10:50: [Day 1 Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/4) 
+- 10:50: [Day 1 Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/4): Zoom connection <https://zoom.us/j/558817992>  
 - 12:00: Lunch 
 - 13:00: [Day 1 Breakout sessions](https://github.com/dcppc/2018-july-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+1%22+label%3A%22proposed+session%22+)
 	- [KC2 and full stacks meetup](https://github.com/dcppc/2018-july-workshop/issues/6)
@@ -35,14 +35,14 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 
 ### Workshop Day 2:  July 26, 2018
 
-**Link to connect via Zoom: [https://zoom.us/j/558817992](https://zoom.us/j/562256926)**
+**Link to connect via Zoom: [https://zoom.us/j/558817992](https://zoom.us/j/558817992)**
 
 **Time: Description**
 - 09:00: Welcome remarks
 - 09:10: Question and Answer with Team Hydrogen
-- 09:30: [Day 2 Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/5)
+- 09:30: [Day 2 Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/5): Zoom connection <https://zoom.us/j/558817992>
 - 10:30: Coffee break 
-- 10:50: [Day 2 Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/5)
+- 10:50: [Day 2 Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/5): Zoom connection <https://zoom.us/j/558817992>
 - 12:00: Lunch, including [*NHLBI DataSTAGE lunch meeting*](https://github.com/dcppc/2018-july-workshop/issues/9)       
 - 13:00: [Day 2 Breakout sessions](https://github.com/dcppc/2018-july-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+label%3A%22proposed+session%22+)
 	- [Whitelist process](https://github.com/dcppc/2018-july-workshop/issues/17): Zoom connection: [https://zoom.us/j/578893575](https://zoom.us/j/578893575) 
