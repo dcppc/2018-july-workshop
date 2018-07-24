@@ -13,7 +13,7 @@ Please download and complete the [Travel Reimbursement Worksheet](https://github
 
 ### Receipts
 
-- All requests for reimbursement must be accompanied by an itemized receipt (except for mileage & parking meters).**
+- All requests for reimbursement must be accompanied by an itemized receipt (except for mileage & parking meters).
 - Make an electronic copy of receipts and submit them via email with the form above
 
 ### 3rd party reimbursements
