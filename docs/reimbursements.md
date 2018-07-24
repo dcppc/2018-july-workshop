@@ -28,7 +28,7 @@ We are **not able** to reimburse 3rd parties. If your employer pays for your exp
 
 ### Hotels
 - Hotels should not exceed $275/night
-- If your flight exceeds the $275/night, you must include price comparison
+- If your hotel cost exceeds the $275/night, you must include price comparison
 
 ### Flights
 - Please book your own flights. - Under special circumstances, UC Davis can book your flights. Please email <dcppc.inbox@gmail.com> for assistance.  
