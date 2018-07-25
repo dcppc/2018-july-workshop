@@ -21,7 +21,6 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 - 13:00: [Day 1 Breakout sessions](https://github.com/dcppc/2018-july-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+1%22+label%3A%22proposed+session%22+)
 	- [KC2 and full stacks meetup](https://github.com/dcppc/2018-july-workshop/issues/6)
 	- [Consent ethics and security](https://github.com/dcppc/2018-july-workshop/issues/8): Zoom connection: [https://zoom.us/j/749719774](https://zoom.us/j/749719774)
-	- [Crosscut metadata models](https://github.com/dcppc/2018-july-workshop/issues/18) 
 	- [Onboard PMs to other stacks](https://github.com/dcppc/2018-july-workshop/issues/12) 
 - 14:30: Coffee break 
 - 14:50: [Day 1 Breakout sessions continued](https://github.com/dcppc/2018-july-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+1%22+label%3A%22proposed+session%22+)
@@ -46,7 +45,9 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 	- [KC6: Blockchain WG breakout](https://github.com/dcppc/2018-july-workshop/issues/21) 
 	- [FAIR assessment](https://github.com/dcppc/2018-july-workshop/issues/19)
 	- [The RFC process](https://github.com/dcppc/2018-july-workshop/issues/16) 
-	- [Cross-stack compute](https://github.com/dcppc/2018-july-workshop/issues/14) 	
+	- [Cross-stack compute](https://github.com/dcppc/2018-july-workshop/issues/14)
+    - [Crosscut metadata models](https://github.com/dcppc/2018-july-workshop/issues/18) 
+ 	
 - 14:30: Coffee break 
 - 15:00: [Day 2 Breakout sessions continued](https://github.com/dcppc/2018-july-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+label%3A%22proposed+session%22+)
 - 16:00: Breakout session recap 
