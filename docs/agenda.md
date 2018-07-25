@@ -11,6 +11,8 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 
 ### Workshop Day 1: July 25, 2018
 
+*[Link to Google Drive folder for talks and notes](https://drive.google.com/drive/u/0/folders/1Ues8Pa_xV6Vvbg0-4uBuK_5EBefDkEEK)*
+
 **Time: Description**
 - 09:00: Welcome remarks
 - 09:20: Alastair Thomson: What is the NHLBI DataSTAGE
@@ -31,6 +33,8 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 **Dinner!** - We have arranged for a group dinner on the first night of the meeting (Wednesday, July 25) at [Kipos](http://kiposchapelhill.com/), 431 W. Franklin Street, Chapel Hill, North Carolina 27514. There will be a bus (and passenger van and carpools) that will take everyone down to Franklin Street right after the meeting ends on Wednesday. After dinner is over, you can take the bus back to the Sheraton, or you can stay on Franklin Street to sample the many evening activities and Uber home. 
 
 ### Workshop Day 2:  July 26, 2018
+
+*[Link to Google Drive folder for talks and notes](https://drive.google.com/drive/u/0/folders/1Ues8Pa_xV6Vvbg0-4uBuK_5EBefDkEEK)*
 
 **Time: Description**
 - 09:00: Welcome remarks
