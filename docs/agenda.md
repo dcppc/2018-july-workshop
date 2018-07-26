@@ -39,7 +39,7 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 **Time: Description**
 - 09:00: Welcome remarks
 - 09:10: Question and Answer with Team Hydrogen
-- 09:30: [Day 2 Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/5): Zoom connection <https://zoom.us/j/562256926>
+- 09:30: [Day 2 Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/5): Zoom connection <https://zoom.us/j/558817992>
 - 10:30: Coffee break 
 - 10:50: [Day 2 Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/5): Zoom connection <https://zoom.us/j/558817992>
 - 12:00: Lunch, including [*NHLBI DataSTAGE lunch meeting*](https://github.com/dcppc/2018-july-workshop/issues/9)       
