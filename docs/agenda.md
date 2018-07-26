@@ -38,10 +38,10 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 
 **Time: Description**
 - 09:00: Welcome remarks
-- 09:10: Question and Answer with Team Hydrogen
-- 09:30: [Day 2 Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/5): Zoom connection <https://zoom.us/j/558817992>
+- 09:10: [Day 2 Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/5): Zoom connection <https://zoom.us/j/558817992>
 - 10:30: Coffee break 
 - 10:50: [Day 2 Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/5): Zoom connection <https://zoom.us/j/558817992>
+- 11:40: Question and Answer with Team Hydrogen
 - 12:00: Lunch, including [*NHLBI DataSTAGE lunch meeting*](https://github.com/dcppc/2018-july-workshop/issues/9)       
 - 13:00: [Day 2 Breakout sessions](https://github.com/dcppc/2018-july-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+label%3A%22proposed+session%22+)
 	- [Whitelist process](https://github.com/dcppc/2018-july-workshop/issues/17): Zoom connection: [https://zoom.us/j/578893575](https://zoom.us/j/578893575) 
@@ -54,7 +54,7 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
  	
 - 14:30: Coffee break 
 - 15:00: [Day 2 Breakout sessions continued](https://github.com/dcppc/2018-july-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+label%3A%22proposed+session%22+)
-- 16:00: Breakout session recap 
+- 15:45: Breakout session recap 
 - 16:20: [Post-workshop survey](https://ucdavis.co1.qualtrics.com/jfe/form/SV_43isVLx7nDYnOuN)
 - 16:30: End
 
