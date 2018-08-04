@@ -65,6 +65,4 @@ We know that primary caretakers of dependent children face inequitable hurdles w
 All members of the Commons are expected to follow the [code of conduct](https://github.com/dcppc/dcppc-workshops/blob/master/CODE_OF_CONDUCT.md). 
 We will enforce this code as needed. We expect cooperation from all members to help to ensure a safe environment for everybody.
 
-### Video playlist 
 
-<iframe src="https://archive.org/embed/peril_of_doc_ock&playlist=1&autoplay=1" width="640" height="580" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
