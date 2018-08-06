@@ -9,16 +9,27 @@ The July DCPPC workshop will be held at The Renaissance Computing Institute (REN
 
 We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, Fishbowl and Dogwood conference rooms.
 
-### Workshop Day 1: July 25, 2018
-
 *[Link to Google Drive folder for talks and notes](https://drive.google.com/drive/u/0/folders/1Ues8Pa_xV6Vvbg0-4uBuK_5EBefDkEEK)*
+
+### Workshop Day 1: July 25, 2018
 
 **Time: Description**
 - 09:00: Welcome remarks
 - 09:20: Alastair Thomson: What is the NHLBI DataSTAGE
 - 09:40: [Day 1 Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/4): Zoom connection <https://zoom.us/j/558817992> 
-- 10:30: Coffee break
-- 10:50: [Day 1 Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/4): Zoom connection <https://zoom.us/j/558817992>  
+    -  Argon: Rick Wagner
+    -  Calcium: David Siedzik
+    -  Carbon: Paul Avillach
+    -  Copper: S. Edrie
+    -  Data Stewards (AGR): Adam Wright
+    -  Data Stewards (GTEx): François Aguet
+    -  Data Stewards (TOPMed): Ben Heavner
+    -  Helium: Steve Cox
+    -  Nitrogen: Lily Wang
+    -  Oxygen: Kirk Roberts
+    -  Phosphorus: Jonathan Crabtree
+    -  Sodium: Timothy Clark
+    -  KC7: Rick Wagner
 - 12:00: Lunch 
 - 13:00: [Day 1 Breakout sessions](https://github.com/dcppc/2018-july-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+1%22+label%3A%22proposed+session%22+)
 	- [KC2 and full stacks meetup](https://github.com/dcppc/2018-july-workshop/issues/6)
@@ -28,20 +39,26 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 - 14:50: [Day 1 Breakout sessions continued](https://github.com/dcppc/2018-july-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+1%22+label%3A%22proposed+session%22+)
 - 16:00: Breakout session recap 
 - 16:30: End
-
-
-**Dinner!** - We have arranged for a group dinner on the first night of the meeting (Wednesday, July 25) at [Kipos](http://kiposchapelhill.com/), 431 W. Franklin Street, Chapel Hill, North Carolina 27514. There will be a bus (and passenger van and carpools) that will take everyone down to Franklin Street right after the meeting ends on Wednesday. After dinner is over, you can take the bus back to the Sheraton, or you can stay on Franklin Street to sample the many evening activities and Uber home. 
+- 17:00: Dinner at [Kipos](http://kiposchapelhill.com/), 431 W. Franklin Street, Chapel Hill, North Carolina 27514.
 
 ### Workshop Day 2:  July 26, 2018
-
-*[Link to Google Drive folder for talks and notes](https://drive.google.com/drive/u/0/folders/1Ues8Pa_xV6Vvbg0-4uBuK_5EBefDkEEK)*
 
 **Time: Description**
 - 09:00: Welcome remarks
 - 09:10: [Day 2 Lightning talks](https://github.com/dcppc/2018-july-workshop/issues/5): Zoom connection <https://zoom.us/j/558817992>
-- 10:30: Coffee break 
-- 10:50: [Day 2 Lightning talks continued](https://github.com/dcppc/2018-july-workshop/issues/5): Zoom connection <https://zoom.us/j/558817992>
-- 11:40: Question and Answer with Team Hydrogen
+   - Oxygen: Lucila Ohno-Machado/Kirk Roberts
+   - Nitrogen: Alex Lachmann 
+   - Sodium: Mercè Crosas
+   - Phosphorus:  Kemi Ifeonu
+   - Helium:  Claris Castillo
+   - Data Stewards (TOPMed): Cathy Laurie
+   - Data Stewards (AGR):  Karen Yook and Adam Wright
+   - Copper: Phillip Brooks & 
+   - DGW8: Vivien Bonazzi
+   - Carbon: Paul Avillach
+   - Argon: Rick Wagner
+   - KC7: Ian Foster
+   - Calcium: David Siedzik
 - 12:00: Lunch, including [*NHLBI DataSTAGE lunch meeting*](https://github.com/dcppc/2018-july-workshop/issues/9)       
 - 13:00: [Day 2 Breakout sessions](https://github.com/dcppc/2018-july-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+label%3A%22proposed+session%22+)
 	- [Whitelist process](https://github.com/dcppc/2018-july-workshop/issues/17): Zoom connection: [https://zoom.us/j/578893575](https://zoom.us/j/578893575) 
@@ -55,6 +72,16 @@ We will be on the first and fifth floors using the Biltmore, DaVinci, Sandburg, 
 - 14:30: Coffee break 
 - 15:00: [Day 2 Breakout sessions continued](https://github.com/dcppc/2018-july-workshop/issues?utf8=✓&q=is%3Aopen+label%3A%22Day+2%22+label%3A%22proposed+session%22+)
 - 15:45: Breakout session recap 
-- 16:20: [Post-workshop survey](https://ucdavis.co1.qualtrics.com/jfe/form/SV_43isVLx7nDYnOuN)
+- 16:00: [Post-workshop survey](https://ucdavis.co1.qualtrics.com/jfe/form/SV_43isVLx7nDYnOuN)
+- 16:05: Q&A with Vivien Bonazzi
 - 16:30: End
+
+
+### Video playlist of lightning talks
+
+<iframe src="https://archive.org/embed/2018-july-workshop-lightningtalks&playlist=1" width="320" height="290" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+### Video playlist of lightning talks
+
+<iframe src="https://archive.org/embed/2018-august-workshopbreakoutgroups&playlist=1" width="320" height="290" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
