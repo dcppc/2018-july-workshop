@@ -45,8 +45,12 @@ _Note: this section is for organizations helping with catering events_
 - Please save all itemized receipts. 
 - Include a list of participants.
 - We cannot reimburse alcohol.
-- The grand total for meal reimbursement (including catered food and food purchased by attendees) should not exceed $62 per person per day. 
-- We recommend $14 per person for the combined coffee breaks and $15 per person for lunch
+- Entertainment meals are allowable as long as there is a business reason/purpose
+- Meal allowances for catering are:
+	- breakfast $27
+	- lunch $47
+	- dinner $81
+	- refreshments $19
 - Contact <dcppc.inbox@gmail.com> with questions about payment.
 
 ### Special requests
